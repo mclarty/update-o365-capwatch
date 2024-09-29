@@ -1,0 +1,101 @@
+Duty,Lvl,OfficeSymbol,SortOrder
+Activities Officer,"UNIT,GROUP",CPA,8
+Activities Officer,"WING",A5CPA,8
+Administrative Officer,"UNIT,GROUP",DA,7
+Administrative Officer,"WING",A1DA,7
+Advisor to the Commander,"UNIT,GROUP,WING",CCA,5
+Aerospace Education Officer,"UNIT,GROUP",AE,7
+Aerospace Education Officer,"WING",A5AE,7
+Alerting Officer,"UNIT,GROUP",DOSA,9
+Alerting Officer,"WING",A3DOSA,9
+Cadet Programs Development Officer,"UNIT,GROUP",CPD,8
+Cadet Programs Development Officer,"WING",A5CPD,8
+Cadet Programs Officer,"UNIT,GROUP",CP,7
+Cadet Programs Officer,"WING",A5CP,7
+Chaplain,"UNIT,GROUP,WING",HC,6
+Character Development Instructor,"UNIT,GROUP,WING",HCD,7
+Chief of Staff,"UNIT,GROUP,WING",CS,4
+Command NCO,WING,CCC,5
+Commander,"UNIT,GROUP,WING",CC,1
+Communications Engineering Officer,WING,A6DCE,8
+Communications Licensing Officer,WING,A6DCL,8
+Communications Officer ,"UNIT,GROUP",DC,7
+Communications Officer ,"WING",A6DC,7
+Communications Training Officer,WING,A6DCT,8
+Counterdrug Officer,"UNIT,GROUP",DOC,8
+Counterdrug Officer,WING,A3DOC,8
+Cyber Education Officer,"UNIT,GROUP",CPC,8
+Cyber Education Officer,"WING",A5CPC,8
+Deputy Commander,"UNIT,GROUP,WING",CD,3
+Deputy Commander for Cadets,UNIT,CDC,3
+Deputy Commander for Seniors,UNIT,CDS,3
+Director of Administration,WING,A1DA,7
+Director of Aerospace Education,WING,A5AE,7
+Director of Cadet Programs,WING,A5CP,7
+Director of Communications,WING,A6DC,7
+Director of Education and Training,WING,A1ET,7
+Director of Emergency Services,WING,A3DOS,7
+Director of Finance,WING,A1FM,7
+Director of IT,WING,A6IT,7
+Director of Logistics,WING,A4LG,7
+Director of Operations,WING,A3DO,7
+Director of Safety,WING,SE,7
+Disaster Preparedness Officer,"UNIT,GROUP",DOP,8
+Disaster Preparedness Officer,WING,A3DOP,8
+Diversity Officer,WING,DI,6
+Drug Demand Reduction Officer,"UNIT,GROUP",CPD,8
+Drug Demand Reduction Officer,WING,A5CPD,8
+Education and Training Officer,"UNIT,GROUP",ET,7
+Education and Training Officer,"WING",A1ET,7
+Emergency Services Officer,"UNIT,GROUP",DOS,8
+Emergency Services Officer,"WING",A3DOS,8
+Emergency Services Training Officer,"UNIT,GROUP",DOST,9
+Emergency Services Training Officer,"WING",A3DOST,9
+External Aerospace Education Officer,"UNIT,GROUP",AEX,8
+External Aerospace Education Officer,WING,A5AEX,8
+Finance Officer,"UNIT,GROUP",FM,7
+Finance Officer,"WING",A1FM,7
+Fitness Officer,"UNIT,GROUP",CPF,8
+Fitness Officer,"WING",A5CPF,8
+Government Relations Advisor,"UNIT,GROUP,WING",GR,7
+Group NCO,GROUP,CCC,5
+Health Services Officer,"UNIT,GROUP",HS,7
+Health Services Officer,WING,A1HS,7
+Historian,"UNIT,GROUP,WING",HO,6
+Homeland Security Officer,"UNIT,GROUP",DOH,8
+Homeland Security Officer,WING,A3DOH,8
+Information Technologies Officer,"UNIT,GROUP",IT,7
+Information Technologies Officer,"WING",A6IT,7
+Inspector General,"GROUP,WING",IG,6
+Internal Aerospace Education Officer,"UNIT,GROUP",AEI,8
+Internal Aerospace Education Officer,WING,A5AEI,8
+Legal Officer,WING,JA,6
+Logistics Officer,"UNIT,GROUP",LG,7
+Logistics Officer,"WING",A4LG,7
+Maintenance Officer,"UNIT,GROUP",DOM,8
+Maintenance Officer,WING,A3DOM,8
+Operations Officer,"UNIT,GROUP",DO,7
+Operations Officer,"WING",A3DO,7
+Personnel Officer,"UNIT,GROUP",DP,7
+Personnel Officer,"WING",A1DP,7
+Plans and Programs Officer,"UNIT,GROUP",XP,7
+Plans and Programs Officer,WING,A5XP,7
+Public Affairs Officer,"UNIT,GROUP",PA,7
+Public Affairs Officer,WING,A1PA,7
+Recruiting Officer,"UNIT,GROUP",RE,7
+Recruiting Officer,WING,A1RE,7
+Safety Officer,"UNIT,GROUP,WING",SE,6
+Search and Rescue Officer,"UNIT,GROUP",DOSR,9
+Search and Rescue Officer,WING,A3DOSR,9
+Squadron Leadership Officer,UNIT,CPL,8
+Squadron NCO,UNIT,CCC,5
+Standardization/Evaluation Officer,"UNIT,GROUP",DOV,8
+Standardization/Evaluation Officer,WING,A3DOV,8
+Supply Officer,"UNIT,GROUP",LGS,8
+Supply Officer,WING,A4LGS,8
+Testing Officer,"UNIT,GROUP",ETT,8
+Testing Officer,WING,A1ETT,8
+Transportation Officer,"UNIT,GROUP",LGT,8
+Transportation Officer,WING,A4LGT,8
+Vice Commander,WING,CV,2
+Web Security Administrator,"UNIT,GROUP,WING",WSA,8
